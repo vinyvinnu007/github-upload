@@ -2,6 +2,6 @@
 #include<io.h>
 int main(){
     char resistance="resist";
-    char capacitance="capacitance";
+    char capacitance="capacitance c";
 
 }
